@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harringtoncsl
+- 👀 I’m interested in learning more about cybersecurity and game making.
+- 🌱 I’m currently learning about python, powershell, online ctf games, malware analysis, system and network administration, Batto-Do and more.
+- 💞️ I’m looking to collaborate on web site design, coding, and gaming projects.
+- 📫 How to reach me: try emailing me at harringtoncsl@protonmail.com
